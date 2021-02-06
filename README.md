@@ -1,2 +1,2 @@
-# c_render_engine
+# C ++ Render Engine for Learning Purposes
 C++ Render Engine
